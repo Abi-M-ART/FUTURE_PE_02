@@ -1,0 +1,16 @@
+Act as a social media ad expert.
+
+Create 3 UGC ad scripts for a herbal face wash.
+
+Each script must include:
+
+* Hook
+* Problem
+* Solution
+* CTA
+
+Tone:
+Natural and authentic
+
+Platform:
+Instagram Reel
