@@ -1,2 +1,3 @@
-# FUTURE_PE_02
+# prompting
+
 prompting in gemini
